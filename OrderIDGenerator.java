@@ -3,7 +3,7 @@ import java.util.Random;
 public class OrderIDGenerator {
     public static void main(String[] args) {
         Random random = new Random();
-        String[] orderIDs = new String[5];
+        String[] orderIDs = new String[7];
 
         for (int i = 0; i < orderIDs.length; i++) {
             // Generate a random uppercase letter between A (65) and E (69)
