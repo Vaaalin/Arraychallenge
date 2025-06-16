@@ -5,7 +5,7 @@ import java.util.List;
 public class ArraySortReverse {
     public static void main(String[] args) {
         // Initial array of pallet IDs
-        String[] pallets = {"B14", "A11", "B12", "A13"};
+        String[] pallets = {"B14", "A11", "B12", "A13","B15", "A16", "B17", "A18","B19", "A20", "B21", "A22"};
 
         // Sort the array in ascending order
         System.out.println("Sorted ....");
